@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+cassio
+PyPDF2
+sentence-transformers
+transformers
+huggingface_hub
+python-dotenv
